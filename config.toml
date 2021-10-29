@@ -1,3 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "MinecraftGamer45's Blog"
+theme = "PaperMod"
